@@ -4,11 +4,7 @@ Hello guys!
 <img 
 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <br> welcome to my profile, I'm <br> 
-<strong style="
-  background: -webkit-linear-gradient(#FF008E, #FFCD1E);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-">António Gabriel</strong>
+<img src="António Gabriel.png">
 </h1>
 <em><p style="font-weight: 700;">Send a message and i will reply!</p></em>
 
@@ -77,6 +73,8 @@ I was already forgetting these 😜😜😜😜 :
  <img align="center" src="https://img.shields.io/badge/-@antoniogabriel-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
+<!-- Past Readme -->
+
 <!--
 ## Hello guys! 👋welcome to my profile
 
@@ -93,6 +91,7 @@ I was already forgetting these 😜😜😜😜 :
  ⚡ Fun fact: Impostor Syntrome ...
 -->
  
+<!-- Icons -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
@@ -110,3 +109,10 @@ I was already forgetting these 😜😜😜😜 :
 <!-- <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"></code> -->
 <!-- <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
+
+<!-- Gradient Effect on Text -->
+<!-- <strong style="
+  background: -webkit-linear-gradient(#FF008E, #FFCD1E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">António Gabriel</strong> -->
