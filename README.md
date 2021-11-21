@@ -4,7 +4,7 @@ Hello guys!
 <img 
 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <br> welcome to my profile, I'm <br> 
-<img src="António Gabriel.png">
+<img src="António Gabriel.png" alt="my gradient name" style="margin-top:10px;">
 </h1>
 <em><p style="font-weight: 700;">Send a message and i will reply!</p></em>
 
