@@ -1,12 +1,17 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Antonio-Gabriel/fe89aca264c72da46f77b253e4098544/raw/cecab4bbaf148f134940438fad1e13eb22160fc5/githubcard.svg"/>
-<h1 align="left">Hello guys! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br> welcome to my profile, <br> I'm António Gabriel</h1>
+<h1 align="left">
+Hello guys!
+<img 
+src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<br> welcome to my profile, I'm <br> 
+<em>António Gabriel</em>
+</h1>
 <img src="wave2.png" alt="wave" style="position: relative;">
 <br>
-- 🌱 More about algorithms and ways to make the code more and more intelligent, that is, practicing 
-  automation more ...
 
--  👯 In whatever it is opportune for me to participate, I will always be active to give my input, 
-  as long as it is one of my abilities. ...
+-  🌱 More about algorithms and ways to make the code more and more intelligent, that is,       practicing automation more ...
+
+-  👯 In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities. ...
 
 - 🔥 Software developer 
 
