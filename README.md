@@ -4,10 +4,13 @@ Hello guys!
 <img 
 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <br> welcome to my profile, I'm <br> 
-<em>António Gabriel</em>
+<strong style="
+  background: -webkit-linear-gradient(#FF008E, #FFCD1E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">António Gabriel</strong>
 </h1>
-<img src="wave2.png" alt="wave" style="position: relative;">
-<br>
+<em><p style="font-weight: 700;">Send a message and i will reply!</p></em>
 
 -  🌱 More about algorithms and ways to make the code more and more intelligent, that is,       practicing automation more ...
 
