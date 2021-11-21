@@ -28,11 +28,14 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" wi
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=next.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![.Net](https://img.shields.io/badge/-Python-05122A?style=flat&logo=dotnet)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Mysql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
