@@ -3,7 +3,7 @@
   My name is António Gabriel computer student and passionate about computing, 
   I'm a software developer.
   
-  Skills: C#, PHP, JAVASCRIPT, PYTHON, HTML5, CSS3
+  Skills: C#, PHP, JAVASCRIPT, PYTHON, HTML5, CSS3, REACT, FLASK
 
  🔭 I can't talk about it yet ...
  🌱 More about algorithms and ways to make the code more and more intelligent, that is, practicing automation more ...
