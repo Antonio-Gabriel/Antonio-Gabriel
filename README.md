@@ -57,8 +57,8 @@ I was already forgetting these 😜😜😜😜 :
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Gabriel&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Gabriel&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Gabriel&show_icons=true&theme=vision-friendly-dark" alt="antoniocampos"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Gabriel&layout=compact&theme=vision-friendly-dark" alt="antoniocampos"/>
 </p>
 
 <br><br>
