@@ -14,8 +14,6 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" wi
 
 - 🔥 Software developer 
 
-- 🔭 I’m currently working at [SNIR](http://snir.co.ao/)
-
 - 👨‍💻 My projects are currently some in my repositories
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Mysql, Python, REACT, C# and more**
