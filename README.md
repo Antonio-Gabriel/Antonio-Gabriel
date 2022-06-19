@@ -1,8 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Antonio-Gabriel/fe89aca264c72da46f77b253e4098544/raw/cecab4bbaf148f134940438fad1e13eb22160fc5/githubcard.svg"/>
 <h1 align="left">
 Hello guys!
-<img 
-src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+#<img 
+#src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <br> welcome to my profile, I'm <br> <br>
 <img src="António Gabriel.png" alt="my gradient name"/>
 </h1>
